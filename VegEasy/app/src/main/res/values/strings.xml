@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">VegEasy</string>
+    <string-array name="options">
+        <item>For Health</item>
+        <item>For the Environment</item>
+        <item>For the Animals</item>
+        <item>For the Food</item>
+    </string-array>
+    <string-array name="health_options">
+        <item>Nutritional Concerns</item>
+        <item>Superfoods</item>
+        <item>Overall Improvements</item>
+    </string-array>
+</resources>

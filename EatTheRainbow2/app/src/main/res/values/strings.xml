@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">EatTheRainbow2</string>
+    <string name="action_settings">Settings</string>
+    <string name="find_food">Find Food!</string>
+    <string name="food1"></string>
+    <string name="food2"></string>
+    <string name="food3"></string>
+    <string name="food4"></string>
+    <string name="food5"></string>
+
+    <string-array name="foodsList">
+        <item>@string/food1</item>
+        <item>@string/food2</item>
+        <item>@string/food3</item>
+        <item>@string/food4</item>
+        <item>@string/food5</item>
+    </string-array>
+
+    <string-array name="food_colors">
+        <item>red</item>
+        <item>orange</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>blue/purple</item>
+        <item>white</item>
+    </string-array>
+
+    <string-array name="food_type">
+        <item>fruits</item>
+        <item>veggies</item>
+    </string-array>
+    <string name="title_activity_learn_more">Learn More</string>
+</resources>

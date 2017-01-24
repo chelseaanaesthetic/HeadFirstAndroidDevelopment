@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EatTheRainbow4</string>
+
+    <string name="find_food">Find Food!</string>
+    <string name="foods"></string>
+
+
+    <string-array name="food_colors">
+        <item>red</item>
+        <item>orange</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>blue/purple</item>
+        <item>white</item>
+    </string-array>
+
+    <string-array name="food_type">
+        <item>fruits</item>
+        <item>veggies</item>
+    </string-array>
+</resources>

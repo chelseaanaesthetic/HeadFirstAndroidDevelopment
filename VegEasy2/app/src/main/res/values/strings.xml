@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">VegEasy 2</string>
+    <string name="health">Health</string>
+    <string name="nutritional_concerns">Nutritional Concerns</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_health">For Health</string>
+    <string name="action_environment">For the Environment</string>
+    <string name="action_animals">For the Animals</string>
+    <string name="action_food">For the Food</string>
+    <string name="action_share">Share</string>
+
+    <string-array name="options">
+        <item>Home</item>
+        <item>For Health</item>
+        <item>For the Environment</item>
+        <item>For the Animals</item>
+        <item>For the Food</item>
+    </string-array>
+
+    <string-array name="health_options">
+        <item>Nutritional Concerns</item>
+        <item>Superfoods</item>
+        <item>Overall Improvements</item>
+    </string-array>
+
+    <string-array name="environment_options">
+        <item>Climate Change</item>
+        <item>Fresh Water</item>
+        <item>Deforestation</item>
+    </string-array>
+
+    <string-array name="animal_options">
+        <item>Factory Farms</item>
+        <item>Chemical Testing</item>
+        <item>Clothing</item>
+    </string-array>
+
+    <string-array name="food_options">
+        <item>Meat Alternatives</item>
+        <item>Quantity vs Quality</item>
+        <item>Recipes</item>
+    </string-array>
+
+    <string name="title_top">Top Fragment</string>
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
